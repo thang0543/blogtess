@@ -76,3 +76,4 @@ yarn dev
 # Summary
 
 If you seem like this project is helpful for you, give it a 🌟 and share it to your friends 💖
+# blogtess
